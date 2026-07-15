@@ -18,7 +18,7 @@ node.js C++ , RAG Zvec + TUI OpenRouter
 * C/C++
 * LLVM CLang
 * embedding : Gemini-embedding-001
-+ make
+* make
 * Linux
 
 ***
