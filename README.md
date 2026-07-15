@@ -81,5 +81,10 @@ npx tsx embed
 npm run start
 ```
 
+***
+### blog
+
+https://zenn.dev/knaka0209/scraps/0c6be54e770357
+
 
 ***
